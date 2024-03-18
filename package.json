@@ -1,0 +1,14 @@
+{
+  "name": "cow-say",
+  "version": "1.0.0",
+  "description": "exercice de la semaine 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "salma",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
